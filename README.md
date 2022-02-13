@@ -2,15 +2,6 @@
 # java01.04
 Tasca S1.04: Testing
 =======
-<<<<<<< HEAD
-# java01.04
-Tasca S1.04: Testing
-=======
-<<<<<<< HEAD
-# java01.04
-Tasca S1.04: Testing
-=======
-
 
 ## Java Testing Project
 
