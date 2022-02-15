@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6af1ac07-3447-4c58-a38b-3cb30e95fb47" name="Changes" comment="rebase 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javaTesting" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -68,6 +74,7 @@
       <workItem from="1644751867648" duration="198000" />
       <workItem from="1644752429823" duration="653000" />
       <workItem from="1644753293615" duration="1707000" />
+      <workItem from="1644912515466" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="rebase">
       <created>1644753541391</created>
