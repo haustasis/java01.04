@@ -5,4 +5,8 @@ Crea una classe jUnit que verifiqui el seu correcte funcionament, parametritzant
 un espectre de dades ampli i validi si el càlcul és correcte per a 10 números de DNI predefinits.
  */
 public class App2Class {
+
+    public static void main(String[] args) {
+
+    }
 }
