@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af1ac07-3447-4c58-a38b-3cb30e95fb47" name="Changes" comment="enunciats">
+    <list default="true" id="6af1ac07-3447-4c58-a38b-3cb30e95fb47" name="Changes" comment="psvm">
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici1/junit/Any.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici2/junit/CalculoDni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici3/junit/Mochila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici1/junit/AnyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici2/junit/CalculoDniTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici3/junit/MochilaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici1/junit/App1Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici1/junit/App1Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici2/junit/App2Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici2/junit/App2Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici3/junit/App3Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici3/junit/App3Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici1/junit/App1Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici2/junit/App2Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/main/java/n1exercici3/junit/App3Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici1/junit/App1ClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici2/junit/App2ClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnit/src/test/java/n1exercici3/junit/App3ClassTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +36,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -41,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -66,9 +83,151 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33678162" />
+    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="n1exercici3.junit" />
+      <recent name="n1exercici2.junit" />
+      <recent name="n1exercici1.junit" />
+      <recent name="com.practice.junit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MochilaTest.prepararMochila">
+    <configuration name="AnyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":JUnit:test" />
+            <option value="--tests" />
+            <option value="&quot;n1exercici1.junit.AnyTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AnyTest.addTotsMesosTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":JUnit:test" />
+            <option value="--tests" />
+            <option value="&quot;n1exercici1.junit.AnyTest.addTotsMesosTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankAccountTest.dummyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":JUnit:test" />
+            <option value="--tests" />
+            <option value="&quot;com.practice.junit.BankAccountTest.dummyTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculoDniTest.letraDni01" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":JUnit:test" />
+            <option value="--tests" />
+            <option value="&quot;n1exercici2.junit.CalculoDniTest.letraDni01&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MochilaTest.prepararMochila" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":JUnit:test" />
+            <option value="--tests" />
+            <option value="&quot;n1exercici3.junit.MochilaTest.prepararMochila&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MochilaTest.prepararMochila" />
+        <item itemvalue="Gradle.CalculoDniTest.letraDni01" />
+        <item itemvalue="Gradle.AnyTest" />
+        <item itemvalue="Gradle.AnyTest.addTotsMesosTest (1)" />
+        <item itemvalue="Gradle.BankAccountTest.dummyTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,7 +244,9 @@
       <workItem from="1644752429823" duration="653000" />
       <workItem from="1644753293615" duration="1707000" />
       <workItem from="1644912515466" duration="2967000" />
-      <workItem from="1644994740307" duration="178000" />
+      <workItem from="1644994740307" duration="321000" />
+      <workItem from="1645078107468" duration="215000" />
+      <workItem from="1645084012693" duration="6937000" />
     </task>
     <task id="LOCAL-00001" summary="rebase">
       <created>1644753541391</created>
@@ -122,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644913476631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="psvm">
+      <created>1644995152755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644995152755</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +324,7 @@
     <MESSAGE value="rebase" />
     <MESSAGE value="rebase 2" />
     <MESSAGE value="enunciats" />
-    <option name="LAST_COMMIT_MESSAGE" value="enunciats" />
+    <MESSAGE value="psvm" />
+    <option name="LAST_COMMIT_MESSAGE" value="psvm" />
   </component>
 </project>
